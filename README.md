@@ -2,7 +2,7 @@
 MSI Z170i Gaming Pro AC Hackintosh
 
 ## Motherboard Layout
-![MSI Z170i Gaming Pro AC Motherboard Layout](https://asset.msi.com/resize/image/global/product/five_pictures7_3546_2015090316221855e8033abe77b.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png)
+![MSI Z170i Gaming Pro AC Motherboard Layout](https://github.com/ZenX4005/MSI-Z170i-Gaming-Pro-AC/blob/main/MSI-Z170i-Gaming-Pro-AC.png)
 
 ## Hackintosh Specs
 | Item    | Type                            |
