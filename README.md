@@ -12,6 +12,7 @@ MSI Z170i Gaming Pro AC Hackintosh
 | PSU     | Corsair RM850 80+ Gold          |
 | MB      | MSI Z170i Gaming Pro AC         |
 | RAM     | 2x8GB KLEVV Bolt X PC-3200      |
+| WiFi/BT | Fenvi BCM94360NG                |
 | Cooling | Stock Cooler                    |
 | Case    | Silverstone SG-13               |
 
